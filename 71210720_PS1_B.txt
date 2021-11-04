@@ -1,0 +1,11 @@
+tentukan suku awal,beda,dan suku terakhir barisan tersebut (suku awal=1,beda=1,suku terakhir=2000)
+masukkan variabel nilai awal ="a",beda "b",suku terakhir="Un" 
+menghitung banyaknya deret, dimana banyak deret di simbolkan dengan variabel "n"
+Mencari banyaknya deret dengan menggunakan rumus Un=a+(n-1)b
+Un=a+(n-1)b
+2000=1+(n-1)1
+Didapatkan hasil n=2000
+menghitung jumlah deret, dimana jumlah deret disimbolkan dengan "Sn"
+mencari jumlah deret dengan persamaan Sn=n/2(2a+(n-1)b)
+Sn=2000/2(2(1)+(2000-1)1)
+Sn=2.001.000
