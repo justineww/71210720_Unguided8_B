@@ -1,0 +1,11 @@
+Terdapat 4 buah gelas kosong, dengan setiap gelas di beri masing - masing variabel (gelas 1="A",gelas 2="B",gelas 3="C",gelas 4="D")
+A memiliki kapasitas 1000L, B memiliki kapasitas 700L, C memiliki kapasitas 300L, D memiliki kapasitas 100L
+Jika diberi lubang tepat dibagian tepi tengah gelas, maka hanya stengah dari air tersebut yang akan turun
+Ditumpahkan 1000L air pada gelas A
+Dengan menggunakan persamaan A/2
+Dari gelas A mengalir sebanyak 500L ke gelas B 
+Dengan menggunakan persamaan 700-500
+Dari gelas B mengalir sebanyak 200L ke gelas C
+Dengan menggunakan persamaan 200-300
+Dari gelas C mengalir sebanyak 100L ke gelas D
+Jadi, pada gelas D terdapat 100L air
